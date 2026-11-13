@@ -1,9 +1,10 @@
 import * as model from './model.js';
 import recipeView from './views/RecipeView.js';
+import searchView from './views/SearchView.js';
+import resultsView from './views/ResultView.js';
 
 const icons = new URL('../img/icons.svg', import.meta.url).href; // Parcel v2
 const recipeContainer = document.querySelector('.recipe');
-
 
 // https://forkify-api.herokuapp.com/v2
 
@@ -16,16 +17,16 @@ const renderSpinner = function (parentEl) {
         <use href="${icons}#icon-loader"></use>
     </svg>
     </div>
-  `
-  parentEl.innerHTML = "";
-  parentEl.insertAdjacentHTML("afterbegin", markup);
-} 
+  `;
+  parentEl.innerHTML = '';
+  parentEl.insertAdjacentHTML('afterbegin', markup);
+};
 
-const controlRecipes = async function() {
+const controlRecipes = async function () {
   try {
     const id = window.location.hash.slice(1);
     if (!id) return;
-    console.log("ID receta: ", id);
+    // console.log('ID receta: ', id);
 
     recipeView.renderSpinner();
     // const resp = await fetch(`https://forkify-api.herokuapp.com/api/v2/recipes/${id}`);
@@ -118,7 +119,7 @@ const controlRecipes = async function() {
     //           </div>
     //           </li>
     //         `;
-    //         }).join('')}  
+    //         }).join('')}
 
     //       </div>
     //             </ul>
@@ -146,15 +147,36 @@ const controlRecipes = async function() {
     // recipeContainer.insertAdjacentHTML("afterbegin", markup);
 
     recipeView.render(model.state.recipe);
-
-  } catch(error) {
-    recipeContainer.innerHTML = '';
-    alert(error);
-  } 
+  } catch (error) {
+    recipeView.renderError();
+  }
 };
+
+const controlSearchResults = async function () {
+  try {
+    const query = searchView.getQuery();
+    if (!query) return;
+
+    resultsView.renderSpinner();
+    await model.loadSearchResults(query);
+    resultsView.render(model.state.search.results);
+  } catch (error) {
+    console.log(error);
+  }
+};
+
+const init = function () {
+  recipeView.addHandlerRender(controlRecipes);
+  searchView.addHandlerSearch(controlSearchResults);
+};
+
+init();
+
+// controlSearchResults('pizza');
 
 // window.addEventListener("hashchange", showRecipe)
 // showRecipe();
-['hashchange', 'load'].forEach(ev => {
-  window.addEventListener(ev, controlRecipes);
-});
+
+// ['hashchange', 'load'].forEach(ev => {
+//   window.addEventListener(ev, controlRecipes);
+// });
