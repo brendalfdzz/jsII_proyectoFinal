@@ -1,4 +1,4 @@
-3701
+3702
 107C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\profiler\lib\SamplingProfiler.d.ts134390904228062768 0
 120C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\sample-mdb.txt134390904234354394 0
 99C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\node-addon-api\tools\conversion.js134390904227745703 0
@@ -6,7 +6,7 @@
 63C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\.prettierrc134390887931195905 0
 55C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src134392674829303258 1
 85C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\ordered-binary\.idea134392674822800850 1
-56C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist134393414441761728 1
+56C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist134393448828922662 1
 92C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\transformer-postcss134392674780546581 1
 110C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\lmdb\node_modules\node-addon-api\node_api.gyp134390904223435184 0
 73C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\escalade134392674814213920 1
@@ -22,7 +22,7 @@
 86C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\source-map-js\LICENSE134390906506257813 0
 75C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\parcel\src134392674823213053 1
 98C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\electron-to-chromium\package.json134390904227281944 0
-62C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\index.html134392364223903204 0
+62C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\index.html134393445327852104 0
 95C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\chrome-trace-event\LICENSE.txt134390904225427114 0
 81C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\lmdb\src\txn.cpp134390904232723068 0
 111C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\publickeypinning.js134390904243606200 0
@@ -69,7 +69,7 @@
 87C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\term-size\vendor\macos134392674827015348 1
 102C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\history.js134390904238161036 0
 111C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\.bin\node-gyp-build-optional-packages-test.cmd134390904307564891 0
-67C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src\js\model.js134393349890851163 0
+67C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src\js\model.js134393443323313704 0
 96C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\regions\MS.js134390904241118651 0
 58C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src\js134392674829303258 1
 119C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c134390904231889666 0
@@ -105,7 +105,7 @@
 101C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\tls1-2.js134390904245758048 0
 91C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\graph\src\index.js134390904228435403 0
 94C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\msgpackr-extract\package.json134390904225502466 0
-72C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src\js\controller.js134393409768106460 0
+72C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src\js\controller.js134393448828097253 0
 91C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\watcher\src\shared134392674784208595 1
 94C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\cjs\_extends.cjs134390904270906244 0
 77C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\lmdb\read.js134390904233755893 0
@@ -139,7 +139,7 @@
 89C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\react-refresh\runtime.js134390904226057502 0
 96C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\regions\GP.js134390904237884654 0
 117C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\css-print-color-adjust.js134390904234775617 0
-68C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src\js\config.js134392624921599924 0
+68C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src\js\config.js134393422702881645 0
 82C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@lezer\lr\LICENSE134390904229419029 0
 82C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\sass\types\logger134392674824967862 1
 120C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_class_private_field_update\package.json134390904303922471 0
@@ -160,13 +160,20 @@
 117C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\ordered-binary\.claude\worktrees\bun-finishutf8\dist134392674822544786 1
 85C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\electron-to-chromium134392674814041770 1
 105C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\esm\_array_without_holes.js134390904287795624 0
-64C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src\js\views134393403738474374 1
+64C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src\js\views134393427412952994 1
+103C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\transformer-babel\src\types.js134390904228514634 0
+118C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_class_private_method_get\package.json134390904303922471 0
+82C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src\js\views\paginationView.js134393442273531159 0
+112C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\css-width-stretch.js134390904235274639 0
+101C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\.bin\download-msgpackr-prebuilds.ps1134390904307564891 0
+128C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt134390904234278229 0
+89C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\baseline-browser-mapping134392674796037088 1
 102C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\cjs\_super_prop_base.cjs134390904271290165 0
 133C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\weak-lru-cache\.claude\worktrees\priority-promotion\rollup.config.js134390904230523573 0
 81C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\readdirp\LICENSE134390906506257813 0
 114C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\transformer-image\lib\ImageTransformer.js134390904223588310 0
 95C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\utils\src\ansi-html.js134390904225999825 0
-78C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src\js\views\ResultView.js134393413755393058 0
+78C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src\js\views\ResultView.js134393448066933714 0
 102C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\colr-v1.js134390904232723068 0
 78C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\src\js\views\SearchView.js134393368748799057 0
 81C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\semver\functions134392674825840430 1
@@ -246,9 +253,6 @@
 74C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\immutable134392674815375269 1
 76C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\ansi-styles134392674795716285 1
 96C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\regions\NG.js134390904242058682 0
-101C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\.bin\download-msgpackr-prebuilds.ps1134390904307564891 0
-128C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\sample-mdb.txt134390904234278229 0
-89C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\baseline-browser-mapping134392674796037088 1
 79C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\clone\clone.js134390904225062923 0
 115C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\chacha8.c134390904230282183 0
 105C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\source-map-js\lib\source-map-consumer.js134390906506598216 0
@@ -350,7 +354,7 @@
 84C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\regenerator-runtime134392674824208302 1
 101C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\webusb.js134390904247726724 0
 91C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\ordered-binary\.nyc_output134392674822877262 1
-76C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\forkify.4a59a05f.js134393414441660888 0
+76C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\forkify.4a59a05f.js134393448828869560 0
 107C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\utils\test\input\config\config.cjs134390904225084105 0
 76C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\safe-buffer134392674824373934 1
 82C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\type-fest\license134390904222978409 0
@@ -465,7 +469,7 @@
 127C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\weak-lru-cache\.claude\worktrees\priority-promotion\index.d.ts134390904231047662 0
 113C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\transformer-babel\lib\babelErrorUtils.js134390904224621914 0
 89C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\semver\functions\sort.js134390904230747509 0
-81C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\forkify.f7626f62.css.map134393413485076469 0
+81C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\forkify.f7626f62.css.map134393438420087887 0
 125C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\weak-lru-cache\.claude\worktrees\priority-promotion\index.js134390904230229258 0
 124C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\weak-lru-cache\.claude\worktrees\priority-promotion\LICENSE134390904229728102 0
 108C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\css-variables.js134390904235274639 0
@@ -574,9 +578,9 @@
 105C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_ts_decorate\package.json134390904305812080 0
 84C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\type-fest\base.d.ts134390904225550312 0
 103C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\packager-js\lib\DevPackager.js134390904225884685 0
+110C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_array_with_holes\package.json134390904303222665 0
 115C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\css-element-function.js134390904233729098 0
 112C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\rtcpeerconnection.js134390904244005235 0
-110C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_array_with_holes\package.json134390904303222665 0
 85C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\type-fest\index.d.ts134390904228181116 0
 108C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\online-status.js134390904242654147 0
 85C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\types\README.md134390904224551302 0
@@ -760,7 +764,7 @@
 86C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\commander\lib\help.js134390904225852283 0
 93C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\commander\typings\index.d.ts134390904228011347 0
 103C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\term-size\vendor\windows\term-size.exe134390904225852283 0
-75C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\icons.21bad73c.svg134393413484800649 0
+75C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\icons.21bad73c.svg134393438419499567 0
 101C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\ordered-binary\assets\powers-dre.png134390904238915330 0
 90C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\supports-color\browser.js134390904223435184 0
 94C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\ordered-binary\dist\index.cjs134390904232645827 0
@@ -1099,10 +1103,6 @@
 103C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\css-sel2.js134390904234982492 0
 96C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\transformer-svg\LICENSE134390904223052441 0
 81C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\parcel\README.md134390904226822951 0
-93C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\profiler\build-ts.js134390904223435184 0
-97C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_set_prototype_of134392674794703876 1
-97C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\immutable\dist\immutable.js.flow134390906507081270 0
-141C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional134390904307602870 0
 82C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\parcel\src\bin.js134390904224114516 0
 82C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\parcel\src\cli.js134390904225530206 0
 117C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\msgpackr-extract\node_modules\detect-libc\lib\elf.js134390904224323340 0
@@ -1249,6 +1249,10 @@
 114C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\msgpackr-extract\node_modules\detect-libc\LICENSE134390904223146481 0
 116C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\msgpackr-extract\node_modules\detect-libc\README.md134390904226044991 0
 124C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\msgpackr-extract\node_modules\detect-libc\lib\filesystem.js134390904225145539 0
+93C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\profiler\build-ts.js134390904223435184 0
+97C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_set_prototype_of134392674794703876 1
+97C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\immutable\dist\immutable.js.flow134390906507081270 0
+141C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional134390904307602870 0
 145C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\msgpackr-extract\node_modules\.bin\node-gyp-build-optional-packages-optional.ps1134390904307602870 0
 116C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\esm\_class_private_field_loose_base.js134390904288043412 0
 82C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\lightningcss\node134392674816213801 1
@@ -1688,7 +1692,7 @@
 102C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\electron-to-chromium\full-versions.js134390904225330307 0
 94C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\electron-to-chromium\index.js134390904225583050 0
 99C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\midi.js134390904240884049 0
-77C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\forkify.f7626f62.css134393413484884280 0
+77C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\forkify.f7626f62.css134393438420072771 0
 114C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\source-map\parcel_sourcemap_node\index.js134390904227189352 0
 93C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\electron-to-chromium\LICENSE134390904223254213 0
 85C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\rust\LICENSE134390904223052441 0
@@ -1828,7 +1832,7 @@
 96C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\regions\CL.js134390904232625718 0
 117C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\form-submit-attributes.js134390904237243466 0
 96C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\regions\CN.js134390904232723068 0
-67C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\index.html134393413484776759 0
+67C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\index.html134393445328494914 0
 113C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\src\_class_apply_descriptor_set.mjs134390904306309745 0
 129C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose\package.json134390904304080969 0
 107C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\core\lib\requests\ConfigRequest.js134390904230929220 0
@@ -2254,9 +2258,6 @@
 111C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\css-text-spacing.js134390904235060396 0
 109C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\css-textshadow.js134390904235200992 0
 110C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\css-transitions.js134390904235226790 0
-103C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\transformer-babel\src\types.js134390904228514634 0
-118C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_class_private_method_get\package.json134390904303922471 0
-112C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\css-width-stretch.js134390904235274639 0
 88C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@parcel\packager-js\lib134392674772990937 1
 107C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\svg-fragment.js134390904245269036 0
 103C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\caniuse-lite\data\features\css-zoom.js134390904235357702 0
@@ -2635,7 +2636,7 @@
 109C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_define_enumerable_properties134392674793825833 1
 96C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_define_property134392674793874822 1
 92C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_export_star134392674793874822 1
-75C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\icons.7bd9dd61.svg134393413485056367 0
+75C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\icons.7bd9dd61.svg134393438419814983 0
 97C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_get_prototype_of134392674794003416 1
 89C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\_\_identity134392674794036987 1
 115C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\@swc\helpers\esm\_tagged_template_literal_loose.js134390904302778294 0
@@ -3695,8 +3696,8 @@
 80C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\.bin\semver.cmd134390904307564891 0
 92C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\.bin\update-browserslist-db134390904307564891 0
 96C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\node_modules\.bin\update-browserslist-db.ps1134390904307564891 0
-77C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\favicon.8b2f57bf.png134393413484873922 0
-80C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\forkify.4a59a05f.js.map134393414441761728 0
+77C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\favicon.8b2f57bf.png134393438419450363 0
+80C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\forkify.4a59a05f.js.map134393448828922662 0
 76C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\forkify.62406edb.js134390908508796939 0
 80C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\forkify.62406edb.js.map134390908508796939 0
-74C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\logo.726d37a8.png134393413484856352 0
+74C:\Users\ferna\Documents\jsII_proyectoFinal\forkify\dist\logo.726d37a8.png134393438419585883 0
